@@ -1,0 +1,30 @@
+# --- ビルド生成物 / Build artifacts ---
+*.o
+*.out
+a.out
+*.dSYM/
+_verify_bin
+
+# --- macOS ---
+.DS_Store
+
+# --- Module 05: ShrubberyCreationForm が生成するファイル ---
+*_shrubbery
+
+# --- 各 Makefile が生成する実行ファイル (NAME) ---
+bureaucrat
+form
+forms
+intern
+convert
+serializer
+identify
+whatever
+iter
+array
+easyfind
+span
+mutantstack
+btc
+RPN
+PmergeMe
